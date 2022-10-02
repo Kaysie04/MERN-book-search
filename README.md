@@ -5,7 +5,7 @@
 - [Technologies Used](#technologies-used) 
 - [Installation](#installation) 
 - [Screenshot](#screenshot) 
-- [Walkthrough Video](#walkthrough-video) 
+- [Heroku](#Heroku) 
 - [License](#license) 
 
 ## Description
@@ -56,7 +56,6 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 * Graphql
 * Mongodb
 * Mongoose
-* Dotenv
 * Heroku
 
 ## Installation
@@ -76,11 +75,11 @@ npm start
 
 ## Screenshot 
 
-![Node Image](/public/readmeimg.png)
+![Node Image](/client/public/readmeimg.png)
 
 ## Heroku
 
-Click [here](https://watch.screencastify.com/v/HkHsr3sn2lW3HQMhfjS5/) for the deployed application.
+Unable to deploy
 
 ## License
 
