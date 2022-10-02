@@ -76,7 +76,7 @@ npm start
 
 ## Screenshot 
 
-![Node Image](/assets/img/readmeimg.png)
+![Node Image](/public/readmeimg.png)
 
 ## Heroku
 
